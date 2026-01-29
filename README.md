@@ -3,7 +3,7 @@
 This is a **simple landing page** for a coding community subscription.  
 It displays pricing, features, and a sign-up button in a clean, responsive layout.
 
-![Project Screenshot](./images/screenshot.png)
+![Project Screenshot](https://raw.githubusercontent.com/SheryHassan/single-price-grid-component/main/images/screenshot.png)
 
 ## 📚 What You Will Learn
 
